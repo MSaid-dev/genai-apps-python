@@ -1,0 +1,31 @@
+# Core Python Libraries
+flask==2.2.5
+requests==2.31.0
+python-dotenv==1.0.0
+
+# LLMs and NLP
+openai==1.14.3
+langchain==0.1.13
+transformers==4.38.2
+sentence-transformers==2.2.2
+accelerate==0.28.0
+
+# STT / TTS
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+pydub==0.25.1
+
+# IBM Watson SDK
+ibm-watson==6.0.0
+ibm-cloud-sdk-core==3.16.7
+
+# Data Handling & Utilities
+pandas==2.2.2
+numpy==1.26.4
+
+# Audio Processing
+soundfile==0.12.1
+librosa==0.10.1
+
+# Optional: for token counting
+tiktoken==0.6.0
